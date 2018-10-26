@@ -15,11 +15,18 @@
 function makeNegative (number) {
 
     // write the code for your function here
-  
-  }
+    if (number > 0) {
+        number = number * -1;
+    }
+    return number;
+}       
+var number = makeNegative(17);
+
+
   
   // call your function here
-  
+  console.log(number);
+    
   
   // 2. Given an array of integers, return a new array with each value doubled.
   // For example:
@@ -27,6 +34,7 @@ function makeNegative (number) {
   // For the beginner, try to use the map method - it comes in very handy quite a lot so is a good one to know.
   
   // write your function here
+
   
   // call your function here
   
