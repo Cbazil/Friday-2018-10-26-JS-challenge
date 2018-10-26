@@ -1,4 +1,4 @@
-### JavaScript Challenges Friday (2018/10/26)
+# JavaScript Challenges Friday (2018/10/26)
 Learning JavaScript
 Challenges assigned as an activity to strengthen our Skills
 
